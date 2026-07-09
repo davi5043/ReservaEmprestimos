@@ -16,9 +16,6 @@ Projeto-davi/
 └── docs/     → Documentação: relatório, kanban e diagramas
 ```
 
-## ▶️ Como rodar
-Siga o passo a passo em **[docs/COMO_RODAR.md](docs/COMO_RODAR.md)**.
-
 Resumo rápido:
 1. XAMPP: ligar Apache + MySQL.
 2. phpMyAdmin: executar `sql/01_estrutura.sql` e depois `sql/02_dados_iniciais.sql`
