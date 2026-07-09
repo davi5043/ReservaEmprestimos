@@ -31,8 +31,6 @@ Resumo rápido:
 6. Abrir `mobile/ReservasApp` no Android Studio, ajustar `ApiConfig.java` e rodar.
 
 ## 📚 Documentação
-- [Relatório](docs/RELATORIO.md)
-- [Kanban](docs/KANBAN.md)
 - [DER — Banco de Dados](docs/DER.md)
 - [Diagrama de Classes](docs/diagrama_classes.md)
 - [Diagrama de Casos de Uso](docs/diagrama_casos_de_uso.md)
