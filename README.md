@@ -16,6 +16,9 @@ Projeto-davi/
 └── docs/     → Documentação: relatório, kanban e diagramas
 ```
 
+Link Kanban:
+https://trello.com/invite/b/6a45cdfe093636a869fd80f2/ATTIc20fcc7a7fb7f07ec35d7f64b029f449DC53B0E1/sistema-reserva
+
 Resumo rápido:
 1. XAMPP: ligar Apache + MySQL.
 2. phpMyAdmin: executar `sql/01_estrutura.sql` e depois `sql/02_dados_iniciais.sql`
