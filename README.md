@@ -27,10 +27,6 @@ Resumo rápido:
    usuário comum (tipo `user`) sem precisar de acesso ao banco.
 6. Abrir `mobile/ReservasApp` no Android Studio, ajustar `ApiConfig.java` e rodar.
 
-## 📚 Documentação
-- [DER — Banco de Dados](docs/DER.md)
-- [Diagrama de Classes](docs/diagrama_classes.md)
-- [Diagrama de Casos de Uso](docs/diagrama_casos_de_uso.md)
 
 ## 🔑 Logins de teste
 Já vêm prontos no `sql/02_dados_iniciais.sql` (senha já criptografada), não precisa criar nada:
